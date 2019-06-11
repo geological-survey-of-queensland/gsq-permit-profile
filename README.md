@@ -1,4 +1,4 @@
-# GSQ Dataset Profile
+# GSQ Mining Permit Profile
 This is a model of a general `permit`.
 
 <img src="model/dataset.svg" style="width:800px;" alt="Permit model" />  
