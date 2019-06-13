@@ -15,7 +15,7 @@ It is a profile of a permit. It is used for describing the [Geological Survey of
 
 
 ## Usage
-A `permit` is the authority to perform a mining activitiy on a resource at a location.
+A `permit` is the authority to perform a mining activity on a resource at a location.
 
 <img src="model/mining-permit-conceptual-model.svg" style="width:800px;" alt="Level 0 conceptual model" />  
 
