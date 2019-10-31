@@ -15,7 +15,7 @@ It is a profile of a permit. It is used for describing the [Geological Survey of
 
 
 ## Usage
-A `permit` is the authority to perform a mining activity on a resource at a location.
+A `permit` is the authority to perform exploration, appraisal, development or production activities on a resource at a location.
 
 <img src="model/mining-permit-conceptual-model.svg" style="width:800px;" alt="Level 0 conceptual model" />  
 
@@ -43,9 +43,8 @@ No GSQ classes are used in this profile.
 
 ## Vocabularies
 The vocabularies used in this profile are:
-1. [Queensland Mining Permit Type](https://vocabs.gsq.digital/vocabulary/qld-mining-permit)
-2. [Queensland Mining Permit Status](https://vocabs.gsq.digital/vocabulary/qld-mining-permit-status)
-3. [Queensland Mining Permit Sub-status](https://vocabs.gsq.digital/vocabulary/qld-mining-permit-status) - Note: narrower terms in Queensland Mining Permit Status vocabulary
+1. [Queensland Resource Permit](https://https://vocabs.gsq.digital/vocabulary/qld-resource-permit)
+2. [Queensland Resource Permit Status](https://vocabs.gsq.digital/vocabulary/qld-mining-permit-status)
 
 
 ## License
