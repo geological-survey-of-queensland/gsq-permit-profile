@@ -1,11 +1,11 @@
-# GSQ Mining Permit Profile
+# GSQ Resource Permit Profile
 In general mineral or energy rights in Australia are reserved to the Crown. The acquisition of rights to minerals or energy stems from legislative frameworks in Queensland. These frameworks provide initially for exploration of the resource, and consist of the grant by the Crown in the form of exploration permits, licences or leases.
 
 Exploration permits, leases or licences permit works to be undertaken to determine the likely existence of minerals, energy or resources. Actual mining or energy extraction is subject to a further grant of production leases or licences.
 
 The legislation also provides for the payment of royalties to the State and to compensate the owners or occupiers of the surface land.
 
-Mining permits include `Petroleum and gas resource authorities`, `Mineral and coal resource authorities`, `Greenhouse gas storage authorities` and `Geothermal authorities`.
+Resource permits include `Petroleum and gas resource authorities`, `Mineral and coal resource authorities`, `Greenhouse gas storage authorities` and `Geothermal authorities`.
 
 <img src="model/mining_permit_profile.svg" style="width:800px;" alt="Queensland mining permit model" />  
 
